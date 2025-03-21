@@ -1,1 +1,2 @@
 # Python Kings
+# zaawansowany Python
